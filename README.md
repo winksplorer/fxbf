@@ -6,7 +6,8 @@ Brainfuck interpreter for CASIO fx-9750GIII (or similar) calculators
 
 - "Terminal" with support for wrapping and scrolling
 - Brainfuck app execution
-- Exit 
+- Working keypad via lookup table
+- Exit
 
 
 ## How to set up
@@ -19,6 +20,6 @@ Brainfuck interpreter for CASIO fx-9750GIII (or similar) calculators
 
 On your calculator, launch the add-in with the exploding head icon labeled "BF."
 
-<img src="assets-fx/icon.png" alt="Add-in icon" width="90" style="image-rendering: pixelated;">
+<img src="readme-icon.png" alt="Add-in icon">
 
 To stop execution, press the EXIT button at any time. After stopping, press MENU to return to the calculator's main menu.
