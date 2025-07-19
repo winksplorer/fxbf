@@ -1,0 +1,27 @@
+[
+  {
+    "arguments": [
+      "/home/wink/.local/bin/sh-elf-gcc",
+      "-DFX9860G",
+      "-DTARGET_FX9860G",
+      
+      "-ffreestanding",
+      "-Wa,--dsp",
+      "-Wall",
+      "-Wextra",
+      "-Os",
+      "-g",
+      "-flto",
+      "-I/home/wink/.local/share/fxsdk/sysroot/lib/gcc/sh3eb-elf/14.1.0/include",
+      "-I/home/wink/.local/share/fxsdk/sysroot/sh3eb-elf/include",
+      
+      "-c",
+      "-o",
+      "CMakeFiles/myaddin.dir/src/main.c.obj",
+      "/home/wink/repos/fxbf/src/main.c"
+    ],
+    "directory": "/home/wink/repos/fxbf/build-fx",
+    "file": "/home/wink/repos/fxbf/src/main.c",
+    "output": "/home/wink/repos/fxbf/build-fx/CMakeFiles/myaddin.dir/src/main.c.obj"
+  }
+]
